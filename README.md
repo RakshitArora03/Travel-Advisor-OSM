@@ -36,6 +36,7 @@ To run the project locally, follow these steps:
    NEXT_PUBLIC_RAPIDAPI_KEY=your_api_key_here
 
 5. Start the development server:
+   ```bash
    npm run dev
 
 

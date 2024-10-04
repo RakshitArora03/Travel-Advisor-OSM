@@ -21,4 +21,22 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/travel-advisor-app.git
+   git clone https://github.com/RakshitArora03/Travel-Advisor-OSM.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd Travel-Advisor-OSM
+
+3. Install the dependencies:
+   ```bash
+   npm install
+
+4. Create a .env.local file in the root directory with your RapidAPI key:
+   ```bash
+   NEXT_PUBLIC_RAPIDAPI_KEY=your_api_key_here
+
+5. Start the development server:
+   npm run dev
+
+
+

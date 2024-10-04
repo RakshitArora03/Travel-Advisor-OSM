@@ -1,6 +1,6 @@
 # Travel Advisor App
 
-The **Travel Advisor App** is a web application designed to help users find restaurants, hotels, and attractions in specific geographical areas. Leveraging the power of the [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor), this app provides users with detailed information about various places of interest based on their location.
+The **Travel Advisor App** is a web application designed to help users find restaurants, hotels, and attractions in users specific geographical area. Leveraging the power of the [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor), this app provides users with detailed information about various places of interest based on their location.
 
 ## Features
 

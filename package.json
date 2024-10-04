@@ -1,0 +1,41 @@
+{
+  "name": "ai_project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/next-js": "^2.1.4",
+    "@chakra-ui/react": "^2.7.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@geoapify/leaflet-address-search-plugin": "^1.0.2",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/material": "^5.13.6",
+    "@react-google-maps/api": "^2.18.1",
+    "@react-native-community/geolocation": "^3.0.6",
+    "axios": "^1.4.0",
+    "chakra-ui-simple-autocomplete": "^2.3.0",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.6",
+    "esri-leaflet-geocoder": "^3.1.4",
+    "framer-motion": "^10.12.16",
+    "google-map-react": "^2.2.1",
+    "leaflet": "^1.9.4",
+    "leaflet-control-geocoder": "^2.4.0",
+    "leaflet-geosearch": "^3.11.1",
+    "leaflet-map-server-component": "^0.2.0",
+    "leaflet-search": "^3.0.9",
+    "next": "13.4.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^4.9.0",
+    "react-leaflet": "^4.2.1",
+    "react-leaflet-search": "^2.0.1",
+    "react-select": "^5.7.3"
+  }
+}

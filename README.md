@@ -6,7 +6,7 @@ The Travel Advisor App is a web application designed to help users find restaura
 * Detailed Place Information: Each listing includes essential details such as ratings, reviews, and photos.
 * Responsive Design: Built with responsive design principles to ensure a seamless experience across various devices.
 # Technologies Used
-*React: A JavaScript library for building user interfaces, providing a dynamic and interactive experience.
-*Axios: A promise-based HTTP client for making API requests to fetch place data from the Travel Advisor API.
-*Chakra UI: A modular and accessible component library that enables the building of beautiful interfaces with ease.
-*Leaflet: A powerful library for interactive maps, integrated to visually display the locations of the searched places.
+* React: A JavaScript library for building user interfaces, providing a dynamic and interactive experience.
+* Axios: A promise-based HTTP client for making API requests to fetch place data from the Travel Advisor API.
+* Chakra UI: A modular and accessible component library that enables the building of beautiful interfaces with ease.
+* Leaflet: A powerful library for interactive maps, integrated to visually display the locations of the searched places.
